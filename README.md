@@ -20,7 +20,7 @@ Son útiles para realizar acciones como autenticación, registro, manejo de sesi
 
 En este proyecto, el interceptor `HorarioInterceptor` controla el horario de atención al cliente y muestra un mensaje personalizado según esté el usuario dentro o no del horario establecido.
 
-## 💡Esquema explicativo: 
+## 💡Esquema explicativo
 
 ![Esquema Interceptores](https://github.com/Alvarosanchezz3/SpringBoot-Horario/assets/99328696/2bc50f9c-88fb-41b0-9754-c5daf3f7f6bf)
 
