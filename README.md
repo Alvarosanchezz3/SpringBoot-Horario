@@ -22,5 +22,6 @@ En este proyecto, el interceptor `HorarioInterceptor` controla el horario de ate
 
 Esquema explicativo 💡: 
 
-![Esquema Interceptores](https://github.com/Alvarosanchezz3/SpringBoot-Horario/assets/99328696/dee429c2-4ae9-41a1-9fd4-db2f12cc77a6)
+![Esquema Interceptores](https://github.com/Alvarosanchezz3/SpringBoot-Horario/assets/99328696/2bc50f9c-88fb-41b0-9754-c5daf3f7f6bf)
+
 
